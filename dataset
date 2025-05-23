@@ -1,1 +1,3 @@
+mkdir -p dataset
+mv transfusion.csv dataset/
 
